@@ -11,9 +11,9 @@ author_profile: true
 
 ### Publications
 
-1. Buchbinder, N., Gupta, A., Hathcock, D., Karlin, A., & **Sarkar, S**. (2024). [Maintaining Matroid Intersections Online](https://arxiv.org/abs/2309.10214). Symposium on Discrete Algorithms
+1. Buchbinder, N., Gupta, A., Hathcock, D., Karlin, A., & **Sarkar, S**. (2024). [Maintaining Matroid Intersections Online](https://arxiv.org/abs/2309.10214). Symposium on Discrete Algorithms (SODA).
 
-2. Gupta, A., Lee, E., Li, J., Mucha, M., Newman, H., & **Sarkar, S**. (2022). [Matroid-based tsp rounding for half-integral solutions](https://arxiv.org/abs/2111.09290). Integer Programming and Combinatorial Optimization.
+2. Gupta, A., Lee, E., Li, J., Mucha, M., Newman, H., & **Sarkar, S**. (2022). [Matroid-based tsp rounding for half-integral solutions](https://arxiv.org/abs/2111.09290). Integer Programming and Combinatorial Optimization (IPCO).
 
 3. **Sarkar, S**., & Soberón, P. (2022). [Tolerance for colorful tverberg partitions](https://doi.org/10.1016/j.ejc.2022.103527). European Journal of
 Combinatorics, 103, 103527. 
@@ -24,7 +24,7 @@ Combinatorics, 103, 103527. 
 
 ### In Submission
 
-1. Hathcock, D., Jin, B., Patton, K., **Sarkar, S**., Zlatin, M. (2024). [Online Matroid Intersection: Submodular Water-Filling and Matroidal Welfare Maximization](http://sherrysarkar.github.io/files/OMI-draft-Nov15.pdf)
+1. Hathcock, D., Jin, B., Patton, K., **Sarkar, S**., Zlatin, M. (2024). [Online Matroid Intersection: Submodular Water-Filling and Matroidal Welfare Maximization](http://sherrysarkar.github.io/files/OMI-draft-Nov15.pdf).
 
 2. Braun, A.,  & **Sarkar, S**. (2023). The Secretary Problem with Predicted Additive Gap.
 
