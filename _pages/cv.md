@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-You can find a PDF copy of my CV [here](https://drive.google.com/file/d/1du2vcXoBXy8kOCG_jiZe9jszbyc3tI1Q/view?usp=sharing).
+You can find a PDF copy of my CV [here](http://sherrysarkar.github.io/files/Official_Sarkar_CV.pdf).
