@@ -11,7 +11,7 @@ author_profile: true
 
 ### Publications
 
-1. Hathcock, D., Jin, B., Patton, K., **Sarkar, S**., Zlatin, M. (2024). [The Online Submodular Assignment Problem](http://sherrysarkar.github.io/files/online-sap.pdf). Foundations of Computer Science (FOCS)
+1. Hathcock, D., Jin, B., Patton, K., **Sarkar, S**., Zlatin, M. (2024). [The Online Submodular Assignment Problem](http://sherrysarkar.github.io/files/online-sap.pdf). Foundations of Computer Science (FOCS).
 
 2. Buchbinder, N., Gupta, A., Hathcock, D., Karlin, A., & **Sarkar, S**. (2024). [Maintaining Matroid Intersections Online](https://arxiv.org/abs/2309.10214). Symposium on Discrete Algorithms (SODA).
 
