@@ -19,7 +19,7 @@ author_profile: true
 
 4. Buchbinder, N., Gupta, A., Hathcock, D., Karlin, A., & **Sarkar, S**. (2024). [Maintaining Matroid Intersections Online](https://arxiv.org/abs/2309.10214). Symposium on Discrete Algorithms (SODA).
 
-5. Gupta, A., Lee, E., Li, J., Mucha, M., Newman, H., & **Sarkar, S**. (2022). [Matroid-based tsp rounding for half-integral solutions](https://arxiv.org/abs/2111.09290). Integer Programming and Combinatorial Optimization (IPCO).
+5. Gupta, A., Lee, E., Li, J., Mucha, M., Newman, H., & **Sarkar, S**. (2022). [Matroid-based tsp rounding for half-integral solutions](https://arxiv.org/abs/2111.09290). Integer Programming and Combinatorial Optimization (IPCO) and Mathematical Programming, Series B, Vol 206.
 
 6. **Sarkar, S**., & Soberón, P. (2022). [Tolerance for colorful tverberg partitions](https://doi.org/10.1016/j.ejc.2022.103527). European Journal of
 Combinatorics, 103, 103527. 
@@ -31,6 +31,8 @@ Combinatorics, 103, 103527. 
 ### In Submission
 
 1. Long, Y., Mahabadi, S., **Sarkar, S**., & Tarnawski, J. (2025). Online Steiner Forest with Recourse. (submitted)
+
+2. Kehne, G., Levin, R., **Sarkar, S**., & Yue, Y. (2025). Dynamic Contention Resolution Schemes. (submitted)
 
 ### Surveys
 
