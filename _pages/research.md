@@ -32,8 +32,6 @@ Combinatorics, 103, 103527. 
 
 1. Long, Y., Mahabadi, S., **Sarkar, S**., & Tarnawski, J. (2025). Online Steiner Forest with Recourse. (submitted)
 
-2. Kehne, G., Levin, R., **Sarkar, S**., & Yue, Y. (2025). Dynamic Contention Resolution Schemes. (submitted)
-
 ### Surveys
 
 1. A [survey](http://sherrysarkar.github.io/files/KnapsackSoS.pdf) on sum of squares and pseudo-distributions used on the knapsack problem. Written by [Pravesh Kothari](http://www.cs.cmu.edu/~praveshk/) and I.
