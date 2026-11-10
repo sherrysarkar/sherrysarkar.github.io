@@ -11,30 +11,29 @@ author_profile: true
 
 ### Publications
 
-1. Long, Y., Mahabadi, S., **Sarkar, S**., & Tarnawski, J. (2026). Online Steiner Forest with Recourse. International Colloquium on Automata, Languages, and Programming (ICALP).
+1. Feldan, M., Kehne, G., Levin, R., **Sarkar, S**. (2027). [Dynamic Contention Resolution Schemes](https://arxiv.org/pdf/2609.21993). Symposium on Discrete Algorithms (SODA).
 
-2. Mahabadi, S., **Sarkar, S**., & Tarnawski, J. (2025). [Improved Algorithms for Fair Matroid Submodular Maximization](https://neurips.cc/virtual/2025/loc/san-diego/poster/116721). Neural Information Processing Systems (NeurIPS).
+2. Buchbinder, N., Feldan, M., Liu, S., **Sarkar, S**. (2027) [Semi-Streaming Algorithms for Submodular Maximization under Random Arrival Order](https://arxiv.org/abs/2605.14296). Symposium on Discrete Algorithms (SODA).
 
-3. Braun, A.,  & **Sarkar, S**. (2024). [The Secretary Problem with Predicted Additive Gap](https://arxiv.org/abs/2409.20460). Neural Information Processing Systems (NeurIPS).
+3. Long, Y., Mahabadi, S., **Sarkar, S**., & Tarnawski, J. (2026). Online Steiner Forest with Recourse. International Colloquium on Automata, Languages, and Programming (ICALP).
 
-4. Hathcock, D., Jin, B., Patton, K., **Sarkar, S**., Zlatin, M. (2024). [The Online Submodular Assignment Problem](http://sherrysarkar.github.io/files/online-sap.pdf). Foundations of Computer Science (FOCS).
+4. Mahabadi, S., **Sarkar, S**., & Tarnawski, J. (2025). [Improved Algorithms for Fair Matroid Submodular Maximization](https://neurips.cc/virtual/2025/loc/san-diego/poster/116721). Neural Information Processing Systems (NeurIPS).
 
-5. Buchbinder, N., Gupta, A., Hathcock, D., Karlin, A., & **Sarkar, S**. (2024). [Maintaining Matroid Intersections Online](https://arxiv.org/abs/2309.10214). Symposium on Discrete Algorithms (SODA).
+5. Braun, A.,  & **Sarkar, S**. (2024). [The Secretary Problem with Predicted Additive Gap](https://arxiv.org/abs/2409.20460). Neural Information Processing Systems (NeurIPS).
 
-6. Gupta, A., Lee, E., Li, J., Mucha, M., Newman, H., & **Sarkar, S**. (2022). [Matroid-based tsp rounding for half-integral solutions](https://arxiv.org/abs/2111.09290). Integer Programming and Combinatorial Optimization (IPCO) and Mathematical Programming, Series B, Vol 206.
+6. Hathcock, D., Jin, B., Patton, K., **Sarkar, S**., Zlatin, M. (2024). [The Online Submodular Assignment Problem](http://sherrysarkar.github.io/files/online-sap.pdf). Foundations of Computer Science (FOCS).
 
-7. **Sarkar, S**., & Soberón, P. (2022). [Tolerance for colorful tverberg partitions](https://doi.org/10.1016/j.ejc.2022.103527). European Journal of
+7. Buchbinder, N., Gupta, A., Hathcock, D., Karlin, A., & **Sarkar, S**. (2024). [Maintaining Matroid Intersections Online](https://arxiv.org/abs/2309.10214). Symposium on Discrete Algorithms (SODA).
+
+8. Gupta, A., Lee, E., Li, J., Mucha, M., Newman, H., & **Sarkar, S**. (2022). [Matroid-based tsp rounding for half-integral solutions](https://arxiv.org/abs/2111.09290). Integer Programming and Combinatorial Optimization (IPCO) and Mathematical Programming, Series B, Vol 206.
+
+9. **Sarkar, S**., & Soberón, P. (2022). [Tolerance for colorful tverberg partitions](https://doi.org/10.1016/j.ejc.2022.103527). European Journal of
 Combinatorics, 103, 103527. 
 
-8. **Sarkar, S**., Xue, A., & Soberón, P. (2021). [Quantitative combinatorial geometry for concave functions](10.1016/j.jcta.2021.105465). Journal of Combinatorial Theory, Series A, 182, 105465. 
+10. **Sarkar, S**., Xue, A., & Soberón, P. (2021). [Quantitative combinatorial geometry for concave functions](10.1016/j.jcta.2021.105465). Journal of Combinatorial Theory, Series A, 182, 105465. 
 
-9. Rubinstein-Salzedo, S., & **Sarkar, S**. (2020). [Stability for take-away games](https://cs.uwaterloo.ca/journals/JIS/VOL23/Rubinstein/rub3.html). Journal of Integer Sequences, 23.
+11. Rubinstein-Salzedo, S., & **Sarkar, S**. (2020). [Stability for take-away games](https://cs.uwaterloo.ca/journals/JIS/VOL23/Rubinstein/rub3.html). Journal of Integer Sequences, 23.
 
-### In Submission
-
-1. Feldan, M., Kehne, G., Levin, R., **Sarkar, S**. (2026). Dynamic Contention Resolution Schemes. (submitted).
-
-2. Buchbinder, N., Feldan, M., Liu, S., **Sarkar, S**. (2026) Semi-Streaming Algorithms for Submodular Maximization under Random Arrival Order. (submitted).
 
 ### Surveys
 
